@@ -26,6 +26,8 @@ Create a leaderboard of agents based on various metrics (e.g., number of resolve
 Identify top and bottom performers.
 Visualization and Insights:
 
+# DASHBOARD LINK : https://app.powerbi.com/groups/me/reports/46b125fd-487a-4596-9c0c-a92073abbd67/ReportSection?experience=power-bi
+
 Use a mix of charts, graphs, and tables to visualize data (e.g., line charts for trends, bar charts for comparisons, heatmaps for performance metrics).
 Highlight key insights and trends, such as:
 Times of day or specific days with higher call volumes.
@@ -40,4 +42,4 @@ Propose strategies to reduce call resolution times.
 # Conclusion:
 The Power BI dashboard provides a comprehensive overview of the call center's performance, highlighting critical areas that impact customer satisfaction and operational efficiency. By leveraging these insights, the call center management can implement targeted improvements to enhance service quality and operational effectiveness.
 
-# ***Dashboard Link:***  Power BI Dashboard
+
